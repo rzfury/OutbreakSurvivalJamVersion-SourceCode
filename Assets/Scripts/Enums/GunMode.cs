@@ -1,0 +1,1 @@
+public enum GunMode { PISTOL, RIFLE, SHOTGUN, SNIPER }
